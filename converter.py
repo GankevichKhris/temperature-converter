@@ -38,3 +38,4 @@ try:
         print("Невірний вибір!")
 except ValueError:
     print("Помилка: введіть коректне число!")
+# Temperature Converter v1.1
